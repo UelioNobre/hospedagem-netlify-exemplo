@@ -58,3 +58,7 @@ Clique e selecione o projeto que deseja implantar.
 Agora é só clicar em `Deploy site`.
 
 ![Configurando as opções de building](images/4-Site-settings.png)
+
+---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e364ec4-a27f-47fa-8f9c-924372f7aa50/deploy-status)](https://app.netlify.com/sites/hospedagem-netlify-exemplo/deploys)
